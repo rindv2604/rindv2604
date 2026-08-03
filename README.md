@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Dang Van Rin
+# Hello! 👋 I'm Dang Van Rin
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=750&lines=Aspiring+Physical+Design+Engineer;Semiconductor+Digital+Design+%26+Verification;RTL+to+GDSII+Enthusiast;ASIC+Design+%7C+VLSI+Technology" />
 
@@ -68,60 +68,21 @@ I am always eager to learn, collaborate, and contribute to challenging projects 
 
 ---
 
-## 🔥 Current Focus Areas
-
 ## 🛠 Tech Stack & Tools
 
-### 🔹 ASIC / Physical Design
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cadence%20Innovus-ED1C24?style=for-the-badge&logo=cadence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cadence%20Genus-ED1C24?style=for-the-badge&logo=cadence&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenROAD-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenLane2-0057B8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Yosys-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Magic%20VLSI-800080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netgen-444444?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,c,cpp,python,bash"/>
 
-</p>
+<br>
 
-
-### 🔹 HDL & Digital Design
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Verilog-HDL-0175C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-0175C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VHDL-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge"/>
-
-</p>
-
-
-### 🔹 Programming & Scripting
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,vscode"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Tcl%20Scripting-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-</p>
-
-
-### 🔹 Simulation & Verification
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Ngspice-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xschem-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GTKWave-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence%20Innovus-ED1C24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenLane2-0057B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenROAD-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Yosys-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NGSPICE-008080?style=for-the-badge"/>
 
 </p>
