@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rin Dang
+# Hi 👋, I'm Dang Van Rin
 
 ### Aspiring Physical Design Engineer | Digital IC Design
 
