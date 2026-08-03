@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Dang Van Rin
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=700&lines=Aspiring+Physical+Design+Engineer;RTL+to+GDSII+Enthusiast;ASIC+Design+%7C+Semiconductor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=750&lines=Aspiring+Physical+Design+Engineer;Semiconductor+Digital+Design+%26+Verification;RTL+to+GDSII+Enthusiast;ASIC+Design+%7C+VLSI+Technology" />
 
 </div>
 
@@ -10,119 +10,118 @@
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student
+I am a **Computer Engineering student** with a strong interest in **Semiconductor Engineering, ASIC Design, and Physical Design**.
 
-💻 Interested in
+My main focus is on transforming digital designs into silicon through the complete **RTL-to-GDSII flow**, including:
 
-- Physical Design
-- ASIC Design Flow
-- Digital IC Design
-- Semiconductor Engineering
+- RTL Design
+- Logic Synthesis
+- Floorplanning
+- Placement
+- Clock Tree Synthesis (CTS)
+- Routing
+- Static Timing Analysis (STA)
+- Physical Verification
 
-🌱 Currently Learning
-
-- Cadence Innovus
-- OpenLane2
-- STA
-- Tcl
-- Linux
-- SystemVerilog
+I enjoy exploring **EDA workflows**, automating design processes with scripting, and understanding the challenges behind modern chip implementation such as **timing closure, power optimization, and performance-driven design**.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Experience & Interests
+
+🔹 **ASIC Physical Design**
+- RTL-to-GDSII implementation using OpenLane/OpenROAD
+- Floorplan, Placement, CTS, Routing optimization
+- Timing analysis and constraint development
+
+🔹 **Digital IC Design**
+- Verilog/SystemVerilog RTL Design
+- RISC-V RV32I Processor Development
+- Digital system architecture and verification
+
+🔹 **FPGA Development**
+- FPGA-based digital system implementation
+- Hardware verification and debugging
+
+🔹 **EDA & Automation**
+- Tcl scripting for EDA automation
+- Linux-based IC design environment
+- Open-source ASIC tools exploration
+
+---
+
+## 🌱 Currently Learning
+
+- Static Timing Analysis (STA)
+- Advanced Physical Design Methodologies
+- Low-Power Design Techniques
+- Physical Verification
+- Semiconductor Manufacturing Flow
+
+---
+
+## 🎯 Career Goal
+
+My long-term goal is to become a **Physical Design Engineer** and develop expertise across the complete semiconductor design lifecycle — from **RTL design and verification to physical implementation and tapeout**.
+
+I am always eager to learn, collaborate, and contribute to challenging projects in the **VLSI and semiconductor industry**.
+
+---
+
+## 🔥 Current Focus Areas
+
+## 🛠 Tech Stack & Tools
+
+### 🔹 ASIC / Physical Design
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,vscode,c,cpp,python,bash"/>
+<img src="https://img.shields.io/badge/Cadence%20Innovus-ED1C24?style=for-the-badge&logo=cadence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cadence%20Genus-ED1C24?style=for-the-badge&logo=cadence&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenROAD-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenLane2-0057B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Yosys-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Magic%20VLSI-800080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netgen-444444?style=for-the-badge"/>
+
+</p>
+
+
+### 🔹 HDL & Digital Design
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Verilog-HDL-0175C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge"/>
+
+</p>
+
+
+### 🔹 Programming & Scripting
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,vscode"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenLane2-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cadence-Innovus-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tcl-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-0099ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tcl%20Scripting-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 </p>
 
----
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
+### 🔹 Simulation & Verification
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://img.shields.io/badge/Ngspice-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xschem-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GTKWave-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| RISC-V CPU | 5-stage RV32I Processor |
-| OpenLane Flow | RTL → GDSII |
-| Physical Design Labs | Floorplan, CTS, Routing |
-| ASIC Scripts | Tcl Automation |
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-</div>
