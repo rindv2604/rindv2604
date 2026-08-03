@@ -2,7 +2,7 @@
 
 # Hello! 👋 I'm Dang Van Rin
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=750&lines=Aspiring+Physical+Design+Engineer;Semiconductor+Digital" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=750&lines=Aspiring+Physical+Design+Engineer;Semiconductor+Digital+Design+%26+Verification;RTL+to+GDSII+Enthusiast;ASIC+Design+%7C+VLSI+Technology" />
 
 </div>
 
@@ -23,7 +23,7 @@ My main focus is on transforming digital designs into silicon through the comple
 - Static Timing Analysis (STA)
 - Physical Verification
 
-I enjoy exploring **EDA workflows**, automating design processes with scripting, and understanding the challenges behind modern chip implementation such as **timing closure, power optimization, an[...]
+I enjoy exploring **EDA workflows**, automating design processes with scripting, and understanding the challenges behind modern chip implementation such as **timing closure, power optimization, and performance-driven design**.
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy exploring **EDA workflows**, automating design processes with scripting,
 
 ## 🎯 Career Goal
 
-My long-term goal is to become a **Physical Design Engineer** and develop expertise across the complete semiconductor design lifecycle — from **RTL design and verification to physical implementa[...]
+My long-term goal is to become a **Physical Design Engineer** and develop expertise across the complete semiconductor design lifecycle — from **RTL design and verification to physical implementation and tapeout**.
 
 I am always eager to learn, collaborate, and contribute to challenging projects in the **VLSI and semiconductor industry**.
 
@@ -86,5 +86,3 @@ I am always eager to learn, collaborate, and contribute to challenging projects 
 <img src="https://img.shields.io/badge/NGSPICE-008080?style=for-the-badge"/>
 
 </p>
-
-<!-- Refresh profile README: 2026-08-03 by copilot -->
