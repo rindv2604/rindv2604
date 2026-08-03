@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! 👋 I'm Dang Van Rin
+# Hello! 👋 I'm Dang Van Rin
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E6FF&center=true&vCenter=true&width=750&lines=Aspiring+Physical+Design+Engineer;Semiconductor+Digital+Design+%26+Verification;RTL+to+GDSII+Enthusiast;ASIC+Design+%7C+VLSI+Technology" />
 
